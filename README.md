@@ -2,7 +2,7 @@
 **Files are organzed by class subject**
 | Language | Classes |
 | :----------- | :---------- |
-| Python | *BIOMI 568, BIOMI 668, CS 549* |
+| Python | *[Accessibility: Link Titles](#BIOMI-568), BIOMI 668, CS 549* |
 | R programming | *BIOMI 668, BIOL 606* |
 | Unix/Linux | *BIOMI 668, BIOMI 609, COMP 526* |
 | C | *COMP 526* |
