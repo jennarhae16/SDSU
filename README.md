@@ -1,10 +1,12 @@
-# SDSU
+# San Diego State University Master Program Classwork
 **Files are organzed by class subject**
-> **Python:** *BIOMI 568, BIOMI 668, CS 549* \
-> **R programming:** *BIOMI 668, BIOL 606* \
-> **Unix/Linux:** *BIOMI 668, BIOMI 609, COMP 526* \
-> **C:** *COMP 526* \
-> **Fortran:** *COMP 526*
+| Language | Classes |
+| :----------- | :---------- |
+| Python | *BIOMI 568, BIOMI 668, CS 549* |
+| R programming | *BIOMI 668, BIOL 606* |
+| Unix/Linux | *BIOMI 668, BIOMI 609, COMP 526* |
+| C | *COMP 526* |
+| Fortran | *COMP 526* |
 ***
 ## BIOMI 568
 __Bioinformatics__
