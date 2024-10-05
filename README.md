@@ -2,9 +2,9 @@
 **Files are organzed by class subject**
 | Language | Classes |
 | :----------- | :---------- |
-| Python | *[BIOMI 568](#BIOMI-568), BIOMI 668, CS 549* |
-| R programming | *BIOMI 668, BIOL 606* |
-| Unix/Linux | *BIOMI 668, BIOMI 609, COMP 526* |
+| Python | *[BIOMI 568](#BIOMI-568), [BIOMI 668](#BIOMI-668), CS 549* |
+| R programming | *[BIOMI 668](#BIOMI-668), BIOL 606* |
+| Unix/Linux | *[BIOMI 668](#BIOMI-668), BIOMI 609, COMP 526* |
 | C | *COMP 526* |
 | Fortran | *COMP 526* |
 ***
