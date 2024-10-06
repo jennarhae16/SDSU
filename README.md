@@ -7,7 +7,8 @@
 | Unix/Linux | *[BIOMI 668](#BIOMI-668) [BIOMI 609](#BIOMI-609) [COMP 526](#COMP-526)* |
 | C | *[COMP 526](#COMP-526)* |
 | Fortran | *[COMP 526](#COMP-526)* |
-Examples of MATLAB codes can be found in [Dunaliella_Thesis](#/Dunaliella_Thesis/README.md)
+
+Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/jennarhae16/Dunaliella_Thesis/blob/main/README.md)
 ***
 ## BIOMI 568
 __Bioinformatics__
