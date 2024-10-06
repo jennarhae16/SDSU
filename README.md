@@ -19,6 +19,8 @@ __Bioinformatics__
 - assignment and description
 - assignment and description
 - assignment and description
+  
+[Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
 ## BIOMI 668
 __Advanced Biological Data Analysis__
@@ -32,6 +34,8 @@ __Advanced Biological Data Analysis__
 - assignment and description
 - assignment and description
 - assignment and description
+  
+[Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
 ## BIOMI 609
 __Computational Genomics__
@@ -45,6 +49,8 @@ __Computational Genomics__
 - assignment and description
 - assignment and description
 - assignment and description
+
+[Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
 ## BIOL 606
 __Biological Data Analysis__
@@ -58,6 +64,8 @@ __Biological Data Analysis__
 - assignment and description
 - assignment and description
 - assignment and description
+
+[Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
 ## CS 549
 __Machine Learning__
@@ -71,6 +79,8 @@ __Machine Learning__
 - assignment and description
 - assignment and description
 - assignment and description
+
+[Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
 ## COMP 526
 __Computational Methods for Scientist__
@@ -84,3 +94,5 @@ __Computational Methods for Scientist__
 - assignment and description
 - assignment and description
 - assignment and description
+
+[Back to top](#San-Diego-State-University-Master-Program-Coursework)
