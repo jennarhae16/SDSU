@@ -12,13 +12,13 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 ## BIOMI 568: Bioinformatics
 > Classwork focused on understanding the algorithms used in bioinformatics and an introduction to Python coding and how it relates back to bioinformatic algorithms.
 > Final Project has two parts, one focused on Python coding and the second utilizing the Biopython package.
-- [Bioinformatics_Labs](./BIOMI 568/bioinformatics_labs.py)\
+- [Bioinformatics_Labs](https://github.com/jennarhae16/SDSU/blob/main/BIOMI%20568/bioinformatics_labs.py)\
   All classwork submitted python code
     
-- Python_Final\
+- [Python_Final](https://github.com/jennarhae16/SDSU/blob/main/BIOMI%20568/Python_Final.py)\
   Part one of the final project focusing on loops, functions and file r/w
     
-- Biopython_Final\
+- [Biopython_Final](https://github.com/jennarhae16/SDSU/blob/main/BIOMI%20568/Biopython_Project.py)\
   Part two of the final project using functions from the Biopython package
 
   
