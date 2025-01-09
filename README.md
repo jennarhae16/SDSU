@@ -28,13 +28,7 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 
 > Classwork includes Unix/Linux commands, bash scripting, R coding, and expands Python knowledge (Jupyter, Numpy, pandas, matplotlib, object-oriented programming)
 > 
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
+- (to be updated)
   
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
@@ -42,13 +36,7 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 
 > Classwork includes Unix/Linux commands, bash scripting, R coding, and expands Python knowledge (Jupyter, Numpy, pandas, matplotlib, object-oriented programming)
 > 
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
+- (to be updated)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
@@ -56,13 +44,7 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 
 > Classwork includes Unix/Linux commands, bash scripting, R coding, and expands Python knowledge (Jupyter, Numpy, pandas, matplotlib, object-oriented programming)
 > 
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
+- (to be updated)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
@@ -70,13 +52,7 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 
 > Classwork includes Unix/Linux commands, bash scripting, R coding, and expands Python knowledge (Jupyter, Numpy, pandas, matplotlib, object-oriented programming)
 > 
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
+- (to be updated)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
@@ -84,12 +60,6 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 
 > Classwork includes Unix/Linux commands, bash scripting, R coding, and expands Python knowledge (Jupyter, Numpy, pandas, matplotlib, object-oriented programming)
 > 
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
-- assignment and description
+- (to be updated)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
