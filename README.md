@@ -2,7 +2,7 @@
 **Files are organzed by class subject**
 | Language | Classes |
 | :----------- | :---------- |
-| Python | *[BIOMI 568](#BIOMI-568:) [BIOMI 668](#BIOMI-668:) [CS 549](#CS-549) [Misc Code](#Misc-Code:)* | 
+| Python | *[BIOMI 568](#BIOMI-568) [BIOMI 668](#BIOMI-668) [CS 549](#CS-549) [Misc Code](#Misc-Code)* | 
 | Unix/Linux | *[BIOMI 668](#BIOMI-668) [BIOMI 609](#BIOMI-609) [COMP 526](#COMP-526)* | 
 | C | *[COMP 526](#COMP-526)* | 
 | Fortran | *[COMP 526](#COMP-526)* | 
