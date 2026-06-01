@@ -2,11 +2,12 @@
 **Files are organzed by class subject**
 | Language | Classes |
 | :----------- | :---------- |
-| Python | *[BIOMI 568](#BIOMI-568) [BIOMI 668](#BIOMI-668) [CS 549](#CS-549)* | 
+| Python | *[BIOMI 568](#BIOMI-568) [BIOMI 668](#BIOMI-668) [CS 549](#CS-549) [Misc Code](#Misc-Code)* | 
 | Unix/Linux | *[BIOMI 668](#BIOMI-668) [BIOMI 609](#BIOMI-609) [COMP 526](#COMP-526)* | 
 | C | *[COMP 526](#COMP-526)* | 
 | Fortran | *[COMP 526](#COMP-526)* | 
-| R | *[BIOL 606](#BIOL-606)* | 
+| R | *[BIOMI 668](#BIOMI-668) [BIOL 606](#BIOL-606)* | 
+
 
 Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/jennarhae16/Dunaliella_Thesis/blob/main/README.md)
 ***
@@ -54,7 +55,7 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 > 
 - [Deep Neural Networks](https://github.com/jennarhae16/SDSU/blob/main/CS549/a08_optim_dnn.ipynb)
 - [Convolutional Neural Network (for images)](https://github.com/jennarhae16/SDSU/blob/main/CS549/a09_cnn2.ipynb)
-- [Logistical Regression Model]( https://github.com/jennarhae16/SDSU/blob/main/CS549/a03_logistic.ipynb)
+- [Logistic Regression Model]( https://github.com/jennarhae16/SDSU/blob/main/CS549/a03_logistic.ipynb)
 - [Other Networks](https://github.com/jennarhae16/SDSU/tree/main/CS549)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
@@ -67,4 +68,15 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 
+## Misc Code: Coding Projects
+
+> Coding projects not specific to classes
+> 
+- [CRUD Project](https://github.com/jennarhae16/SDSU/tree/main/CRUD%20Project_Jenna%20Armstrong)
+> GUI using tkinter and sqlite 3 packages
+> 
+- [Data Science Capstone](https://github.com/jennarhae16/SDSU/blob/main/CISD41_Project_Jenna_Armstrong/Capstone_JArmstrong.ipynb)
+> Capstone Project analyzing Sonoma County Animal Shelter data
+
+[Back to top](#San-Diego-State-University-Master-Program-Coursework)
 
