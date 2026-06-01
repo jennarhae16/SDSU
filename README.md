@@ -6,6 +6,7 @@
 | Unix/Linux | *[BIOMI 668](#BIOMI-668) [BIOMI 609](#BIOMI-609) [COMP 526](#COMP-526)* | 
 | C | *[COMP 526](#COMP-526)* | 
 | Fortran | *[COMP 526](#COMP-526)* | 
+| R | *[BIOL 606](#BIOL-606)* | 
 
 Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/jennarhae16/Dunaliella_Thesis/blob/main/README.md)
 ***
@@ -40,19 +41,21 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
-## BIOL 606: Biological Data Analysis
+## BIOL 606: Biological Data
 
-> Classwork includes Unix/Linux commands, bash scripting, R coding, and expands Python knowledge (Jupyter, Numpy, pandas, matplotlib, object-oriented programming)
-> 
+> Classwork includes RStudio and expanding statistical applications> 
 - (to be updated)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
 ## CS 549: Machine Learning
 
-> Classwork includes Unix/Linux commands, bash scripting, R coding, and expands Python knowledge (Jupyter, Numpy, pandas, matplotlib, object-oriented programming)
+> Classwork includes Jupyter Notebook and expands Python knowledge (PyTorch, QuadProg, SKlearn) for Machine Learning algorithms.
 > 
-- (to be updated)
+- [Deep Neural Networks](https://github.com/jennarhae16/SDSU/blob/main/CS549/a08_optim_dnn.ipynb)
+- [Convolutional Neural Network (for images)](https://github.com/jennarhae16/SDSU/blob/main/CS549/a09_cnn2.ipynb)
+- [Logistical Regression Model]( https://github.com/jennarhae16/SDSU/blob/main/CS549/a03_logistic.ipynb)
+- [Other Networks](https://github.com/jennarhae16/SDSU/tree/main/CS549)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
 ***
@@ -63,3 +66,5 @@ Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/
 - (to be updated)
 
 [Back to top](#San-Diego-State-University-Master-Program-Coursework)
+
+
