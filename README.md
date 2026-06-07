@@ -10,6 +10,9 @@
 
 
 Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/jennarhae16/Dunaliella_Thesis/blob/main/README.md)
+
+Highlighted Projects can be found in [Home Repository](https://github.com/jennarhae16/jennarhae16/blob/main/REAADME.md)
+
 ***
 ## BIOMI 568: Bioinformatics
 > Classwork focused on understanding the algorithms used in bioinformatics and an introduction to Python coding and how it relates back to bioinformatic algorithms.
