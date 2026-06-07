@@ -11,7 +11,7 @@
 
 Examples of MATLAB codes can be found in [Dunaliella_Thesis](https://github.com/jennarhae16/Dunaliella_Thesis/blob/main/README.md)
 
-Highlighted Projects can be found in [Home Repository](https://github.com/jennarhae16/jennarhae16/blob/main/README.md)
+Highlighted Projects can be found in my [Home Repository](https://github.com/jennarhae16/jennarhae16/blob/main/README.md)
 
 ***
 ## BIOMI 568: Bioinformatics
